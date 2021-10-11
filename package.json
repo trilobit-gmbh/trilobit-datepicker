@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@chenfengyuan/datepicker": "^1.0.10"
+  },
+  "scripts": {
+    "copy": "rm -rf dist && cp -ru \"node_modules/@chenfengyuan/datepicker/dist/\" \"dist/\" && cp -u \"node_modules/@chenfengyuan/datepicker/README.md\" \"dist/\""
+  }
+}
