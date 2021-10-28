@@ -1,7 +1,7 @@
 {
     "name": "trilobit-gmbh/trilobit-datepicker",
     "type": "contao-component",
-    "description": "Chosen integration for Contao Open Source CMS",
+    "description": "Datepicker integration for Contao Open Source CMS",
     "license": "MIT",
     "authors": [
         {
